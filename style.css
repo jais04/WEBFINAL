@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
+*{
+    margin: 0px;
+}
+.navbar
+{
+    background-attachment: rosybrown;
+    
+    margin: 50px;
+    width: 200px;
+}
+.firststep
+{
+    
+    background-color: rosybrown; 
+    width: 100vw;
+}
+.about-content
+{
+    background-color: rgb(188, 143, 143);
+    padding: 100px;
+}
+.about-text
+{
+    background-color: lavenderblush;
+    width: 1200px;
+    padding: 20px;
+}
+.education-box
+{
+    background-color: rosybrown;
+}
+.contact-content
+{
+    background-color: rosybrown;
+}
